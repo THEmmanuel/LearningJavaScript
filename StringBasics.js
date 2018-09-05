@@ -33,6 +33,4 @@ console.log(sentence);
  //This should output "My full name is Emmanuel Ayodele"
 
  console.log(myFullName += " is my effin name");
- //This should output "Emmanuel Ayodele is my effin name"...... Sorry for swearing
-
- 
+ //This should output "Emmanuel Ayodele is my effin name"...... Sorry for swearing :)

@@ -12,5 +12,4 @@ var country = "Nigeria";
 console.log("My name is " + myName);
 
 //Variables can contain 0-9, a-z or even A-Z
-//Variables names should be written in camel case
-//
+//Variables names should be written in lower camel case such as freeCodeCamp or myName

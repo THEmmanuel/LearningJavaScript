@@ -44,6 +44,5 @@ c = addSquares (8, 6);
  * Well Hoisting means that function declarations are processed before any code is executed
  * That is declaring a function anywhere in the code is equivalent to declaring at the top
  * Variables too are always hoisted
- * Too make your code easier to read always declare variables above your function scope
- *  
+ * Too make your code easier to read always declare variables above your function scope 
  * **/

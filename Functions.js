@@ -39,3 +39,11 @@ function addSquares(a, b){
 a = addSquares(4, 4);
 b = addSquares (7, 4);
 c = addSquares (8, 6);
+
+/**Remember that I stated earlier that functions are always hoisted 
+ * Well Hoisting means that function declarations are processed before any code is executed
+ * That is declaring a function anywhere in the code is equivalent to declaring at the top
+ * Variables too are always hoisted
+ * Too make your code easier to read always declare variables above your function scope
+ *  
+ * **/

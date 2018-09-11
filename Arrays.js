@@ -85,3 +85,12 @@ console.log(copyArr)
 //spread operators are made by adding three dots before the array to be copied
 var copyArr2 = [...originalArr];
 console.log(copyArr2, copyArr)
+
+//DEEP copying
+//Deep copying is used when theres an array or an object in your array
+var deepArr = [["JavaScript"]];
+var shallowArr = deepArr.slice(0);
+
+shallowArr[0].push(" is so effin cool")
+console.log(deepArr[0], shallowArr[0])
+
